@@ -1,0 +1,21 @@
+{
+  "name": "zimtis/version-compare",
+  "keywords": [
+    "version",
+    "compare"
+  ],
+  "type": "library",
+  "description": "Easy compare versio numbers",
+  "require": {
+    "php": "^7.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "zimtis\\versioncompare\\": "src"
+    }
+  },
+  "config": {
+    "vendor-dir": "lib"
+  },
+  "license": "MIT"
+}
